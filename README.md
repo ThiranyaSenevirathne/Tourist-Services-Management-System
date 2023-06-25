@@ -1,2 +1,2 @@
-# Tour-Guide-Management-System
+# TourGuide-Management-System
 MernStack Project
