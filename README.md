@@ -1,2 +1,5 @@
-# Tour_Guide_Management_System
-MernStack Project
+# Tourist Services Management System
+
+## Introduction
+
+“Tourist Services Management System” is an automated web application that addresses the problems faced by tourists. Accordingly, this system deals with hospitality management, tour guide management, transport management, and information management which are some of the key services in the tourism industry.This project is designed by using React JS for the front-end development and Node JS and Express JS for back-end development. Each function of this system is assigned with function managers who are responsible for managing each service.The explore function provides a map that displays all the tourist destinations in a district, along with a weather API that helps tourists plan their activities accordingly. It serves as an effective guide for tourists to plan their trips in Sri Lanka. The travel option allows tourists to easily find and get quotations from registered travel partners based on their pick-up and drop-down points, with the help of Google Maps' Directions API. This feature helps tourists manage their trip costs and find travel partners within their budget. Our web application addresses the challenge of finding a suitable tour guide for tourists by offering the option to choose between male and female guides based on their preferences. The hospitality management function categorizes hotels into different categories, making it easier for users to find the hotel they desire. 
