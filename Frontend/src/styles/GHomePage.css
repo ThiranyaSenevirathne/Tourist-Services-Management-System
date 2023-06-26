@@ -1,0 +1,53 @@
+.guideImage{
+	width: 100%;
+	height: 80vh;
+	/* object-fit: cover; */
+	background-image: url("https://hospitalityinsights.ehl.edu/hs-fs/hubfs/Nine%20Arch%20Bridge%20Sri%20Lanka.jpg?width=1096&name=Nine%20Arch%20Bridge%20Sri%20Lanka.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: rgba(0, 0, 0, 0.171);
+	background-blend-mode: overlay;
+	width: 100%;
+	/* height: 100%; */
+	padding-bottom: 6rem;
+	/* min-height: 100vh; */
+}
+
+.guideImage h2 {
+    margin: 0;
+    padding: 10rem;
+    font-size: 4rem;
+    color: #ffffff;
+	text-align: center;
+}
+
+.guideImage .buttons {
+    /* justify-content: space-between; */
+    width: 80rem;
+    /* background-color: #ffffff; */
+	display: flex;
+	
+}
+
+.guideImage button {
+    margin-left: 16rem;
+    width: 16rem;
+	height: 2.8rem;
+	background-color: #ffffff;
+	border: none;
+	border-radius: 20px;
+	transition: 0.3 ease all;
+	font-size: 1.01rem;
+	margin-top: 500px;
+}
+
+.guideImage button:hover {
+	background-color: #f3efef;
+}
+
+.guideImage a {
+	text-decoration: none;
+	color: #000000;
+
+}

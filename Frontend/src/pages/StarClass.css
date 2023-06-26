@@ -1,0 +1,97 @@
+.image-wrapper{
+    float:left;
+  margin-left: 180px;
+  margin-bottom: 30px;
+ 
+    
+}
+
+.details-wrapper {
+    overflow: hidden;
+    margin-right: 270px;
+    margin-top:20px; 
+  }
+
+  .hotel-name {
+    font-weight: bold;
+    font-size: 1.4em;
+    margin-bottom: 15px;
+  
+  }
+  
+  .hotel-category, .hotel-location, .hotel-booking,.hotel-contact{
+    font-size: 1.3em;
+    margin-bottom: 5px;
+    line-height: 1.8;
+   
+  }
+ 
+  .table-class{
+    margin-top: 12%;
+  }
+
+  .StarMain{
+    height: 450px;
+   width:100%;
+   opacity: 0.9;
+    
+  }
+ 
+  .title{
+    position: absolute;
+    top:75%;
+    left:13%;
+    font-size:168%;
+    font-weight: bolder;
+
+   }
+   .ImageUpload{
+    height: 280px;
+    width: 360px;
+    border-radius: 10px;
+   }
+
+   #addbutton{
+    margin-left: 90%;
+    margin-top: 70px;
+   }
+   #report{
+    top:580px;
+    left:83%;
+    position: absolute;
+    font-size: 20px;
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+
+   }
+   #delete{
+    margin-left: 10px;
+    background-color:#00FFFF;
+    color:black;
+   }
+
+   #update{
+    color:black;
+    background-color: #7FFFD4;
+    margin-left: 20px;
+   }
+   .search{
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+
+
+   }
+  
+   .search input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width:500px;
+    box-sizing:content-box;
+    border:  2px solid #ccc;
+    border-radius: 3px;
+    background-color: rgba(255, 255, 255, 0.652);
+   }
+

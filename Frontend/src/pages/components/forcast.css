@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding-left: 50px;
+    font-family: sans-serif;
+  }
+  
+  .forecast-card {
+    max-width: 360px;
+    margin-bottom: 20px;
+    background-color: rgb(243, 249, 252);
+    padding: 5px;
+  }
+  
+  .row {
+    display: flex;
+    align-items: baseline;
+  }
+  
+  .spaced {
+    justify-content: space-between;
+  }
+  
+  .temperature {
+    font-size: 2.3rem;
+    flex: 8;
+  }
+  
+  .weather-name {
+    flex: 2;
+    margin-right: 5px;
+  }
+  
+  .icon {
+    flex: 2;
+    position: relative;
+    top: 10px;
+  }
+  
